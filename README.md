@@ -10,7 +10,8 @@ _About me:_
 - 📫 How to reach me: tiago.oliveira06@gmail.com
 - 😄 Pronouns: What???
 - ⚡ Fun fact: 🤔
-
+##
+![Coding](https://cdn.dribbble.com/users/510430/screenshots/6749707/programar.gif)
 <!--
 **Otiago06/Otiago06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
