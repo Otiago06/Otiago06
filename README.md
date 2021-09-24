@@ -3,7 +3,7 @@
 
 _About me:_
 - 🔭 I’m currently working on self-employed professional
-- 🌱 I’m currently learning code HTML5, CSS3 and PHP
+- 🌱 I’m currently learning code HTML5, CSS3, JavaScript and PHP
 - 👯 I’m looking to collaborate on community
 - 🤔 I’m looking for help with PHP and JavaScript
 - 💬 Ask me about me
