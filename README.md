@@ -1,6 +1,5 @@
+## **Tiago Oliveira**
 ### Hi there 👋
-**I'm Tiago Oliveira**
-
 _About me:_
 - 🔭 I’m currently working on self-employed professional
 - 🌱 I’m currently learning code HTML5, CSS3, JavaScript and PHP
